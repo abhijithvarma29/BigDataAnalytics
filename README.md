@@ -91,7 +91,7 @@ You may use, modify, or re‑distribute this work under the terms of the **MIT L
 If you use parts of this repository in your own work, kindly cite or give credit as:
 
 ```
-Big_Data_Analytics by Abhijith Varma — GitHub Repository  
+BigDataAnalytics by Abhijith Varma — GitHub Repository  
 (https://github.com/abhijithvarma29/BigDataAnalytics)
 ```
 
