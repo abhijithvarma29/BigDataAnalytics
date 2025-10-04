@@ -65,9 +65,9 @@ Each notebook is self‑contained:
 - Important configurations and design decisions are annotated in markdown cells  
 - You can adapt the paths, data sources, or logic as needed for your own datasets
 
-For example, in *“Air Quality Index Analysis (Mini Project)”*, you will:
+For example, in *“Road Accidents Data Analysis (Mini Project)”*, you will:
 
-- Load AQI dataset(s)  
+- Load Road Accidents dataset(s)  
 - Clean and preprocess data  
 - Perform aggregations, visualizations, and insights extraction  
 
@@ -91,8 +91,8 @@ You may use, modify, or re‑distribute this work under the terms of the **MIT L
 If you use parts of this repository in your own work, kindly cite or give credit as:
 
 ```
-Big_Data_Analytics by Sathvik Dandu — GitHub Repository  
-(https://github.com/Sathvik‑Dandu/Big_Data_Analytics)
+Big_Data_Analytics by Abhijith Varma — GitHub Repository  
+(https://github.com/abhijithvarma29/BigDataAnalytics)
 ```
 
 ---
